@@ -1,0 +1,6 @@
+{
+  "name": "DentaVoice - AI Receptionist Agency for Dental Practices",
+  "description": "High-converting voice AI agency funnel for dental practices. 24/7 call triage, direct PMS calendar booking, insurance pre-qualification, and revenue recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
